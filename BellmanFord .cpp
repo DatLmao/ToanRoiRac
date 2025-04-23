@@ -76,8 +76,8 @@ void Ford_Bellman(int s) {
 }
 
 int main() {
-    freopen("Bai4.inp", "r", stdin);
-    freopen("Bai4.out", "w", stdout);
+    freopen("BellmanFord .inp", "r", stdin);
+    freopen("BellmanFord .out", "w", stdout);
 
     string y;
     int s;

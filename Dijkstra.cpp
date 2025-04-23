@@ -85,8 +85,8 @@ void Dijsktra(int s) {
 }
 
 int main() {
-    freopen("Bai3.inp", "r", stdin);
-    freopen("Bai3.out", "w", stdout);
+    freopen("Dijkstra.inp", "r", stdin);
+    freopen("Dijkstra.out", "w", stdout);
     string y;
     int s;
     cin >> sodinh >> s;

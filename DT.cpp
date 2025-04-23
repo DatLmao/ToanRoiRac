@@ -4,8 +4,8 @@ using namespace std;
 
 
 int main() {
-    freopen("Bai2.inp", "r", stdin);
-    freopen("Bai2.out", "w", stdout);
+    freopen("DT.inp", "r", stdin);
+    freopen("DT.out", "w", stdout);
     int n;
     cin >> n;
     vector<vector<int>> a(n + 1, vector<int> (n + 1));

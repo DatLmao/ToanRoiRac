@@ -16,7 +16,7 @@ void BangChanTri(){
 }
 
 int main() {
-    freopen("Bai1.out", "w", stdout);
+    freopen("BCT.out", "w", stdout);
     ios_base::sync_with_stdio(false);
     BangChanTri();
 

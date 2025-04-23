@@ -24,8 +24,8 @@ void Tree_BFS(int r) {
 }
 
 int main() {
-	freopen("Bai5.inp", "r", stdin);
-	freopen("Bai5.out", "w", stdout);
+	freopen("BFS.inp", "r", stdin);
+	freopen("BFS.out", "w", stdout);
 
 	cin >> n >> r;
 	for (int i = 1; i <= n; i++)
